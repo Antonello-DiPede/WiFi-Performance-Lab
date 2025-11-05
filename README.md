@@ -42,5 +42,5 @@ A **Python automation script** executes multiple `iperf3` sessions and computes 
 ```plaintext
 wifi-performance-lab/
 │
-├── report.pdf            # Full lab report
+├── WIFI_PERFORMANCE.pdf            # Full lab report
 └── README.md             # Project overview
