@@ -2,9 +2,10 @@
 
 This project analyzes **Wi-Fi and Ethernet network performance** using **iperf3** and **Wireshark**, comparing real and theoretical **goodput** across different setups.  
 It was developed as part of the **Wireless Security** course at **Politecnico di Torino**, taught by *Prof. Marco Mellia*.
-Author: Antonello Di Pede
----
 
+---
+##Author: Antonello Di Pede
+--- 
 ## 🧠 Overview
 The lab evaluates **TCP and UDP throughput** under six scenarios:
 1. WiFi ↔ WiFi (TCP)
