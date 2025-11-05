@@ -2,7 +2,7 @@
 
 This project analyzes **Wi-Fi and Ethernet network performance** using **iperf3** and **Wireshark**, comparing real and theoretical **goodput** across different setups.  
 It was developed as part of the **Wireless Security** course at **Politecnico di Torino**, taught by *Prof. Marco Mellia*.
-
+Author: Antonello Di Pede
 ---
 
 ## 🧠 Overview
@@ -41,6 +41,5 @@ A **Python automation script** executes multiple `iperf3` sessions and computes 
 ```plaintext
 wifi-performance-lab/
 │
-├── wifi_performance.py   # Python automation script (iperf3 tests)
 ├── report.pdf            # Full lab report
 └── README.md             # Project overview
